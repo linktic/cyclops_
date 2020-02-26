@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ServicioToken" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ServicioToken" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="RespuestaToken">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="m_Resultado" type="tns:RespuestaToken.TipoResultado" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RespuestaToken" nillable="true" type="tns:RespuestaToken" />
+  <xs:simpleType name="RespuestaToken.TipoResultado">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="None" />
+      <xs:enumeration value="SB001_Cliente_enrolado_en_el_sistema" />
+      <xs:enumeration value="SB002_Cliente_autenticado" />
+      <xs:enumeration value="SB003_Cliente_no_autenticado" />
+      <xs:enumeration value="SB004_Usuario_validado_en_el_sistema" />
+      <xs:enumeration value="SB005_Cliente_eliminado_del_sistema" />
+      <xs:enumeration value="SB006_Validación_de_usuario_fallida" />
+      <xs:enumeration value="SB007_Número_de_intentos_de_login_superados" />
+      <xs:enumeration value="SB008_Excepción_en_parámetros_de_entrada" />
+      <xs:enumeration value="SB009_Lector_de_huellas_no_conectado" />
+      <xs:enumeration value="SB010_Excepción_en_la_captura_de_huella" />
+      <xs:enumeration value="SB011_Falló_en_lector_de_huella" />
+      <xs:enumeration value="SB012_Huella_ya_capturada_en_el_proceso_de_enrolamiento" />
+      <xs:enumeration value="SB013_Cámara_web_no_conectada" />
+      <xs:enumeration value="SB014_Falló_en_cámara_web" />
+      <xs:enumeration value="SB015_Excepción_en_la_captura_de_foto" />
+      <xs:enumeration value="SB016_Token_generado_correctamente" />
+      <xs:enumeration value="SB017_Excepción_de_procesamiento_módulo_central" />
+      <xs:enumeration value="SB018_Excepción_generado_token" />
+      <xs:enumeration value="SB019_Consulta_de_token_valido" />
+      <xs:enumeration value="SB020_Consulta_de_token_invalido" />
+      <xs:enumeration value="SB021_Excepción_en_generación_de_reporte" />
+      <xs:enumeration value="SB022_Usuario_creado_correctamente" />
+      <xs:enumeration value="SB023_Usuario_eliminado" />
+      <xs:enumeration value="SB024_Perfil_creado" />
+      <xs:enumeration value="SB025_Perfil_editado" />
+      <xs:enumeration value="SB026_Tiempo_de_espera_agotado_de_procesamiento" />
+      <xs:enumeration value="SB027_Cliente_ya_enrolado_en_el_sistema" />
+      <xs:enumeration value="SB028_Cliente_no_enrolado_en_el_sistema" />
+      <xs:enumeration value="SB029_Cliente_sin_huellas" />
+      <xs:enumeration value="SB030_Proceso_Cancelado" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="RespuestaToken.TipoResultado" nillable="true" type="tns:RespuestaToken.TipoResultado" />
+</xs:schema>

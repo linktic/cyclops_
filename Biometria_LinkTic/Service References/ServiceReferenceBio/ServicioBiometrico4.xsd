@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ServicioBiometrico472" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ServicioBiometrico472" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="https://biometrico.4-72.com.co:472/ServicioBiometrico.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:import schemaLocation="https://biometrico.4-72.com.co:472/ServicioBiometrico.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:complexType name="Solicitud">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="m_Codigo_Entidad" type="xs:int" />
+      <xs:element minOccurs="0" name="m_Codigo_Oficina" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="m_Codigo_Servicio" type="xs:int" />
+      <xs:element minOccurs="0" name="m_Foto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="m_Huellas" nillable="true" type="tns:ArrayOfHuella" />
+      <xs:element minOccurs="0" name="m_NI_Cliente" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="m_NI_Usuario" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="m_TI_Cliente" type="tns:Solicitud.TipoDocumento" />
+      <xs:element minOccurs="0" name="m_TI_Usuario" type="tns:Solicitud.TipoDocumento" />
+      <xs:element minOccurs="0" name="m_Tipo_Solicitud" type="tns:Solicitud.Tipo_Solicitud" />
+      <xs:element minOccurs="0" name="m__Descripcion" type="xs:int" />
+      <xs:element minOccurs="0" name="m__Evento" nillable="true" type="tns:_Evento" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Solicitud" nillable="true" type="tns:Solicitud" />
+  <xs:complexType name="ArrayOfHuella">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Huella" nillable="true" type="tns:Huella" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfHuella" nillable="true" type="tns:ArrayOfHuella" />
+  <xs:complexType name="Huella">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Datos" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Formato" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="HuellaID" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Huella" nillable="true" type="tns:Huella" />
+  <xs:simpleType name="Solicitud.TipoDocumento">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="CC" />
+      <xs:enumeration value="CE" />
+      <xs:enumeration value="TI" />
+      <xs:enumeration value="RC" />
+      <xs:enumeration value="TE" />
+      <xs:enumeration value="NIT" />
+      <xs:enumeration value="PS" />
+      <xs:enumeration value="DEE" />
+      <xs:enumeration value="OT" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="Solicitud.TipoDocumento" nillable="true" type="tns:Solicitud.TipoDocumento" />
+  <xs:simpleType name="Solicitud.Tipo_Solicitud">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Enrolamiento">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">1</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Autenticacion">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">2</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Eliminacion">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">3</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Evento">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">4</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="Solicitud.Tipo_Solicitud" nillable="true" type="tns:Solicitud.Tipo_Solicitud" />
+  <xs:complexType name="_Evento">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Evento" type="tns:_Evento.Tipo_Evento" />
+      <xs:element minOccurs="0" name="Mensaje" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="_Evento" nillable="true" type="tns:_Evento" />
+  <xs:simpleType name="_Evento.Tipo_Evento">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="None" />
+      <xs:enumeration value="SB001_Cliente_enrolado_en_el_sistema" />
+      <xs:enumeration value="SB002_Cliente_autenticado" />
+      <xs:enumeration value="SB003_Cliente_no_autenticado" />
+      <xs:enumeration value="SB004_Usuario_validado_en_el_sistema" />
+      <xs:enumeration value="SB005_Cliente_eliminado_del_sistema" />
+      <xs:enumeration value="SB006_Validación_de_usuario_fallida" />
+      <xs:enumeration value="SB007_Número_de_intentos_de_login_superados" />
+      <xs:enumeration value="SB008_Excepción_en_parámetros_de_entrada" />
+      <xs:enumeration value="SB009_Lector_de_huellas_no_conectado" />
+      <xs:enumeration value="SB010_Excepción_en_la_captura_de_huella" />
+      <xs:enumeration value="SB011_Falló_en_lector_de_huella" />
+      <xs:enumeration value="SB012_Huella_ya_capturada_en_el_proceso_de_enrolamiento" />
+      <xs:enumeration value="SB013_Cámara_web_no_conectada" />
+      <xs:enumeration value="SB014_Falló_en_cámara_web" />
+      <xs:enumeration value="SB015_Excepción_en_la_captura_de_foto" />
+      <xs:enumeration value="SB016_Token_generado_correctamente" />
+      <xs:enumeration value="SB017_Excepción_de_procesamiento_módulo_central" />
+      <xs:enumeration value="SB018_Excepción_generado_token" />
+      <xs:enumeration value="SB019_Consulta_de_token_valido" />
+      <xs:enumeration value="SB020_Consulta_de_token_invalido" />
+      <xs:enumeration value="SB021_Excepción_en_generación_de_reporte" />
+      <xs:enumeration value="SB022_Usuario_creado_correctamente" />
+      <xs:enumeration value="SB023_Usuario_eliminado" />
+      <xs:enumeration value="SB024_Perfil_creado" />
+      <xs:enumeration value="SB025_Perfil_editado" />
+      <xs:enumeration value="SB026_Tiempo_de_espera_agotado_de_procesamiento" />
+      <xs:enumeration value="SB027_Cliente_ya_enrolado_en_el_sistema" />
+      <xs:enumeration value="SB028_Cliente_no_enrolado_en_el_sistema" />
+      <xs:enumeration value="SB029_Cliente_sin_huellas" />
+      <xs:enumeration value="SB030_Proceso_Cancelado" />
+      <xs:enumeration value="SB031_Perfil_Eliminado" />
+      <xs:enumeration value="SB032_Usuario_Editado" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="_Evento.Tipo_Evento" nillable="true" type="tns:_Evento.Tipo_Evento" />
+  <xs:complexType name="RespuestaSolicitud">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="m_Resultado" type="tns:RespuestaSolicitud.TipoResultado" />
+      <xs:element minOccurs="0" name="m_Token" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="m__Evento" nillable="true" type="tns:_Evento" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RespuestaSolicitud" nillable="true" type="tns:RespuestaSolicitud" />
+  <xs:simpleType name="RespuestaSolicitud.TipoResultado">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Proceso_Correcto" />
+      <xs:enumeration value="Proceso_Fallido" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="RespuestaSolicitud.TipoResultado" nillable="true" type="tns:RespuestaSolicitud.TipoResultado" />
+  <xs:complexType name="SolicitudParametrizacion">
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="Data" nillable="true" type="q1:ArrayOfstring" />
+      <xs:element minOccurs="0" name="m_NI" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="m_TI" type="tns:SolicitudParametrizacion.TipoDocumento" />
+      <xs:element minOccurs="0" name="m_Tipo_Solicitud" type="tns:SolicitudParametrizacion.Tipo_Solicitud" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SolicitudParametrizacion" nillable="true" type="tns:SolicitudParametrizacion" />
+  <xs:simpleType name="SolicitudParametrizacion.TipoDocumento">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="CC" />
+      <xs:enumeration value="CE" />
+      <xs:enumeration value="TI" />
+      <xs:enumeration value="RC" />
+      <xs:enumeration value="TE" />
+      <xs:enumeration value="NIT" />
+      <xs:enumeration value="PS" />
+      <xs:enumeration value="DEE" />
+      <xs:enumeration value="OT" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="SolicitudParametrizacion.TipoDocumento" nillable="true" type="tns:SolicitudParametrizacion.TipoDocumento" />
+  <xs:simpleType name="SolicitudParametrizacion.Tipo_Solicitud">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Enrolamiento">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">1</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Autenticacion">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">2</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Validacion">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">3</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="SolicitudParametrizacion.Tipo_Solicitud" nillable="true" type="tns:SolicitudParametrizacion.Tipo_Solicitud" />
+  <xs:complexType name="RespuestaParametrizacion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Calidad" type="xs:int" />
+      <xs:element xmlns:q2="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="Data" nillable="true" type="q2:ArrayOfstring" />
+      <xs:element minOccurs="0" name="H_Autenticacion" type="xs:int" />
+      <xs:element minOccurs="0" name="H_Enrolamiento" type="xs:int" />
+      <xs:element minOccurs="0" name="m__Evento" nillable="true" type="tns:_Evento" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RespuestaParametrizacion" nillable="true" type="tns:RespuestaParametrizacion" />
+</xs:schema>

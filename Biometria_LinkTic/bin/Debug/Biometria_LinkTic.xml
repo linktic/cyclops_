@@ -1,0 +1,67 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Biometria_LinkTic
+</name>
+</assembly>
+<members>
+<member name="P:Biometria_LinkTic.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Biometria_LinkTic.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Biometria_LinkTic.My.Resources.Resources.DefaultRostro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Biometria_LinkTic.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Biometria_LinkTic.Biometria.Enrolamiento(System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.String,System.Object)">
+	<summary>
+ Permite el registro biometrico del cliente el sistema.
+ </summary>
+	<param name="TI_Usuario">Tipo de identificación del usuario</param>
+	<param name="NI_Usuario">Número de deintificación del usuario</param>
+	<param name="Cod_Entidad">Codigo de la entidad</param>
+	<param name="Cod_Servicio">Codigo del servicio</param>
+	<param name="Cod_Oficina">Codigo de la oficina</param>
+	<param name="TI_Cliente">Tipo de identificación del cliente</param>
+	<param name="NI_Cliente">Número de deintificación del cliente</param>
+	<returns>Resultado del proceso de enrolamiento</returns>
+	<remarks></remarks>
+</member><member name="M:Biometria_LinkTic.Biometria.Autenticacion(System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.String,System.Object)">
+	<summary>
+ Permite verificar la identidad del cliente.
+ </summary>
+	<param name="TI_Usuario">Tipo de identificación del usuario</param>
+	<param name="NI_Usuario">Número de deintificación del usuario</param>
+	<param name="Cod_Entidad">Codigo de la entidad</param>
+	<param name="Cod_Servicio">Codigo del servicio</param>
+	<param name="Cod_Oficina">Codigo de la oficina</param>
+	<param name="TI_Cliente">Tipo de identificación del cliente</param>
+	<param name="NI_Cliente">Número de deintificación del cliente</param>
+	<returns>Resultado del proceso de autenticación</returns>
+	<remarks></remarks>
+</member><member name="M:Biometria_LinkTic.Biometria.EliminarEnrolamiento(System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.String)">
+	<summary>
+ Permite dar de baja a un cliente en el sistema.
+ </summary>
+	<param name="TI_Usuario">Tipo de identificación del usuario</param>
+	<param name="NI_Usuario">Número de deintificación del usuario</param>
+	<param name="Cod_Entidad">Codigo de la entidad</param>
+	<param name="Cod_Servicio">Codigo del servicio</param>
+	<param name="Cod_Oficina">Codigo de la oficina</param>
+	<param name="TI_Cliente">Tipo de identificación del cliente</param>
+	<param name="NI_Cliente">Número de deintificación del cliente</param>
+	<returns>Resultado del proceso de eliminar enrolamiento</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

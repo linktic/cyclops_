@@ -1,0 +1,106 @@
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\Prueba_Activex.exe.config
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\Prueba_Activex.exe
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\Prueba_Activex.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\Prueba_Activex.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\Suprema.UFScanner.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\Suprema.UFMatcher.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\AForgeCamara.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\AForge.Controls.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\AForge.Video.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\AForge.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\AForge.Imaging.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\AForge.Math.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\AForgeCamara.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\AForgeCamara.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\bin\Debug\AForge.Math.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\obj\Debug\Prueba Activex.vbprojResolveAssemblyReference.cache
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\obj\Debug\Prueba_Activex.Form1.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\obj\Debug\Prueba_Activex.Resources.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\obj\Debug\Prueba Activex.vbproj.GenerateResource.Cache
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\obj\Debug\Prueba_Activex.exe
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\obj\Debug\Prueba_Activex.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\obj\Debug\Prueba_Activex.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Prueba Activex\obj\Debug\Prueba_Activex.Configurar_Conexion.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\Prueba_Activex.exe.config
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\obj\Debug\Prueba_Activex.exe
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\obj\Debug\Prueba_Activex.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\obj\Debug\Prueba_Activex.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\Prueba_Activex.exe
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\Prueba_Activex.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\Prueba_Activex.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\Suprema.UFScanner.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\Suprema.UFMatcher.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\AForgeCamara.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\AForge.Controls.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\AForge.Video.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\AForge.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\AForge.Imaging.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\AForge.Math.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\AForgeCamara.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\AForgeCamara.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\bin\Debug\AForge.Math.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\obj\Debug\Prueba Activex.vbprojResolveAssemblyReference.cache
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\obj\Debug\Prueba_Activex.Configurar_Conexion.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\obj\Debug\Prueba_Activex.Form1.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\obj\Debug\Prueba_Activex.Resources.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Prueba Activex\obj\Debug\Prueba Activex.vbproj.GenerateResource.Cache
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\Prueba_Activex.exe.config
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\Prueba_Activex.exe
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\Prueba_Activex.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\Prueba_Activex.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\Suprema.UFScanner.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\Suprema.UFMatcher.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\AForgeCamara.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\AForge.Controls.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\AForge.Video.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\AForge.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\AForge.Imaging.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\AForgeCamara.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\bin\Debug\AForgeCamara.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\obj\Debug\Prueba Activex.vbprojResolveAssemblyReference.cache
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\obj\Debug\Prueba_Activex.Configurar_Conexion.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\obj\Debug\Prueba_Activex.Form1.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\obj\Debug\Prueba_Activex.Resources.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\obj\Debug\Prueba Activex.vbproj.GenerateResource.Cache
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\obj\Debug\Prueba_Activex.exe
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\obj\Debug\Prueba_Activex.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Prueba Activex\obj\Debug\Prueba_Activex.pdb
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\Prueba_Activex.exe.config
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\obj\Debug\Prueba_Activex.exe
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\obj\Debug\Prueba_Activex.xml
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\obj\Debug\Prueba_Activex.pdb
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\obj\Debug\Prueba Activex.vbprojResolveAssemblyReference.cache
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\obj\Debug\Prueba_Activex.Configurar_Conexion.resources
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\obj\Debug\Prueba_Activex.Form1.resources
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\obj\Debug\Prueba_Activex.Resources.resources
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\obj\Debug\Prueba Activex.vbproj.GenerateResource.Cache
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\Prueba_Activex.exe
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\Prueba_Activex.pdb
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\Prueba_Activex.xml
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\Com.Suprema.HidScanner.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\HIDSample.exe
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\Suprema.UFScanner.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\Suprema.UFMatcher.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\AForgeCamara.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\AForge.Controls.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\AForge.Video.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\AForge.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\AForge.Imaging.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\Com.Suprema.HidScanner.pdb
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Prueba Activex\bin\Debug\HIDSample.pdb

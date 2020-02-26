@@ -1,0 +1,93 @@
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.vbprojResolveAssemblyReference.cache
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Capturar_Huellas.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Capturar.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Configurar_Conexion.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Enrolamiento.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.LoginEnrolamiento.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Resources.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.vbproj.GenerateResource.Cache
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.dll.config
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\AForgeCamara.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\Suprema.UFMatcher.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\Suprema.UFScanner.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\AForge.Controls.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\AForge.Video.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\AForge.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\AForge.Imaging.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\AForgeCamara.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\AForgeCamara.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.tlb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.vbprojResolveAssemblyReference.cache
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Capturar_Huellas.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Capturar.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Configurar_Conexion.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Enrolamiento.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.LoginEnrolamiento.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Resources.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.vbproj.GenerateResource.Cache
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.dll.config
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\AForgeCamara.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\Suprema.UFMatcher.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\Suprema.UFScanner.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\AForge.Controls.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\AForge.Video.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\AForge.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\AForge.Imaging.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\AForgeCamara.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\AForgeCamara.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción hasta 06-04-2016\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.tlb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.dll.config
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\AForgeCamara.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\Suprema.UFMatcher.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\Suprema.UFScanner.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\AForge.Controls.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\AForge.Video.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\AForge.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\AForge.Imaging.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\AForgeCamara.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\AForgeCamara.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Capturar_Huellas.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Capturar.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Configurar_Conexion.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Enrolamiento.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.LoginEnrolamiento.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Resources.resources
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.vbproj.GenerateResource.Cache
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Documents\Visual Studio 2013\Projects\Biometria_LinkTic - Producción 2018\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.tlb
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.dll.config
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\bin\Debug\AForgeCamara.xml
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Capturar_Huellas.resources
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Capturar.resources
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Configurar_Conexion.resources
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Enrolamiento.resources
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.LoginEnrolamiento.resources
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.Resources.resources
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.vbproj.GenerateResource.Cache
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.dll
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.xml
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\obj\Debug\Biometria_LinkTic.pdb
+C:\Users\Proyectos\Desktop\mayerson\CopiaFinalFirmware\Biometria_LinkTic\bin\Debug\Biometria_LinkTic.tlb
